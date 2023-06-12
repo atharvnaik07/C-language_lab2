@@ -31,8 +31,8 @@ The repository currently includes the following programs:
 7. [Pointer to Function](p7_pointer_to_function.c): Demonstrates the usage of pointers to functions.
 8. [Pointer to Pointer](p8_pointer_to_pointer.c): Illustrates the concept of pointers to pointers in C.
 9. [Structure](p9_structure.c): Defines and uses structures in C.
-10. [Union](p10_union.c): Explains the concept of a union and its applications.
-11. [Graphics](p11_graphics.c): Introduces basic graphics programming in C using the `graphics.h` library.
+10. [Graphics](p10_graphics.c): Introduces basic graphics programming in C using the `graphics.h` library.
+11. [Union](p11_union.c): Explains the concept of a union and its applications.
 
 Feel free to explore, modify, and experiment with these programs to enhance your understanding of C programming concepts.
 
