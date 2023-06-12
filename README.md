@@ -26,10 +26,10 @@ The repository currently includes the following programs:
 3. [Recursion](p3_recursion.c): Implements recursive functions to solve various problems.
 4. [Extern Class](p4_extern_class.c): Shows the usage of the `extern` keyword to declare variables across multiple files.
 5. [Static Variable](p5_static_variable.c): Demonstrates the usage of static variables within functions and their behavior.
-6. [Pointer to Array](p6_pointer_to_array.c): Explains the concept of a pointer to an array and its applications.
+6. [Pointer to Array](p6_ pointer_to_array.c): Explains the concept of a pointer to an array and its applications.
 7. [Pointer to Function](p7_pointer_to_function.c): Demonstrates the usage of pointers to functions.
 8. [Pointer to Pointer](p8_pointer_to_pointer.c): Illustrates the concept of pointers to pointers in C.
-9. [Structure](p9_structure.c): Defines and uses structures in C.
+9. [Structure](p9_Structure.c): Defines and uses structures in C.
 10. [Graphics](p10_graphics.c): Introduces basic graphics programming in C using the `graphics.h` library.
 11. [Union](p11_union.c): Explains the concept of a union and its applications.
 
